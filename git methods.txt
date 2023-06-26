@@ -1,0 +1,9 @@
+git init
+git status
+git add name
+git commit--m"jira: comment"
+git status
+git remote add origin url
+git status
+git push -u origin master
+git status
